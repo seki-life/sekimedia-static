@@ -1,0 +1,15 @@
+[submodule "hugo-uno"]
+	path = hugo-uno
+	url = https://github.com/SenjinDarashiva/hugo-uno.git
+[submodule "themes/prologue"]
+	path = themes/prologue
+	url = https://github.com/sethmacleod/prologue.git
+[submodule "themes/hugo-tracks-theme"]
+	path = themes/hugo-tracks-theme
+	url = https://github.com/ageekymonk/hugo-tracks-theme.git
+[submodule "hugograyscale"]
+	path = hugograyscale
+	url = https://github.com/runningstream/hugograyscale.git
+[submodule "themes/hugo-nederburg-theme"]
+	path = themes/hugo-nederburg-theme
+	url = https://github.com/appernetic/hugo-nederburg-theme.git
