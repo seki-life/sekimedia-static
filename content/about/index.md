@@ -22,3 +22,7 @@ Having studied both 2D and 3D visual art at Louisiana Tech University, Anthony i
 ### Kendrick Carter
 
 The current Technical Director of the Dixie Center for the Arts, Kendrick has years of experience in live sound, studio recording, and post-production audio. He will bring a polished touch to the audio for your next production.
+
+### Frank Severic
+
+A masters candidate at LSUS, Frank is a graphics and web designer who has been a contributer to Louisiana Film Prize projects for the previous two years. Frank is our Customer Relations Representative, so if you're thinking of a project, send him an <a href=mailto:frank@seki.media>email</a>.
