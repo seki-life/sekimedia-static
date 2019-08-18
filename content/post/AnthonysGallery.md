@@ -6,7 +6,7 @@ writer: "Anthony Inman"
 image: "img/Anthony-photography/Pastoral.png"
 ---
 <!--more--> 
-This gallery contains a sample of Anthony's work over the last two decades. His expertise ranges from sports and event photography to fashion and landscape. Please consider Anthony for your upcoming event photography needs.
+This gallery contains a sample of Anthony's work over the last two decades. His expertise ranges from sports and event photography to fashion, commercial, and landscape. Please consider Anthony for your upcoming event photography needs.
 
 
 {{< gallery dir="/img/Anthony-photography" />}} {{< load-photoswipe >}}
